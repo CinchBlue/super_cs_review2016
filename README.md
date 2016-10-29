@@ -7,3 +7,7 @@ internship wave of interviews, etc.
 
 - Sorting
   - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  - Heap Sort
+- 
